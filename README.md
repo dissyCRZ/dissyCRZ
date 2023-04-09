@@ -1,4 +1,4 @@
-[Header](https://raw.githubusercontent.com/dissyCRZ/dissyCRZ/main/assets/Github.png)
+![Header](https://github.com/dissyCRZ/dissyCRZ/blob/main/assets/Github.png)
 
 About me
 
